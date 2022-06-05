@@ -1,0 +1,8 @@
+basicCurrency: USD
+openExchangeRatesApi:
+  url: https://openexchangerates.org/api
+  key: b96faf68dac94b1e9d0f9c5f3df3c36c
+giphyApi:
+  url: https://api.giphy.com/v1/gifs/search
+  key: BqNryPW8z3n8Fy73dp9gdYqkcH6qb9AK
+
